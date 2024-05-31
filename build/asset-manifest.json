@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61e3cb11.css",
+    "main.js": "/static/js/main.84d520a7.js",
+    "static/media/blackjackgame.png": "/static/media/blackjackgame.47441a7b813e5619233b.png",
+    "static/media/appleclone.png": "/static/media/appleclone.05f2916710bf83750e89.png",
+    "static/media/AnimalesFantastic-lGly.ttf": "/static/media/AnimalesFantastic-lGly.202fc76254812080432c.ttf",
+    "static/media/memepicker.png": "/static/media/memepicker.7c540cd9fad4036efdde.png",
+    "static/media/shoppinglist.png": "/static/media/shoppinglist.b597ecc21a06348ba206.png",
+    "static/media/pswGenerator.png": "/static/media/pswGenerator.fa290f38623c39eeebac.png",
+    "index.html": "/index.html",
+    "main.61e3cb11.css.map": "/static/css/main.61e3cb11.css.map",
+    "main.84d520a7.js.map": "/static/js/main.84d520a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e3cb11.css",
+    "static/js/main.84d520a7.js"
+  ]
+}
